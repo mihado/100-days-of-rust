@@ -5,3 +5,5 @@ authors = ["Minh Ha <mihado@minh.im>"]
 edition = "2018"
 
 [dependencies]
+
+rand = "0.3.14"
