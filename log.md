@@ -6,4 +6,4 @@
 
 **Thoughts:** Rust is fun! I **love** pattern matching! At first glance, reference is easier to understand than C pointer. Cargo would definitely helps with dependencies hell. I'm used to the awesomeness of ruby bundler so I cannot use any language without something similar.
 
-**Link to work:** [Hello WOrld!](./00_hello_world)
+**Link to work:** [Hello World!](./00_hello_world), [Guessing Game](./01_guessing_game)
